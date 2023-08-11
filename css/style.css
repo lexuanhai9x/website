@@ -4,7 +4,7 @@ html,body{
     height: 100%;
 }
 .container{
-    background-image: url("../img/Back.jpg");
+    background-image: url('../img/Back.jpg');
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
